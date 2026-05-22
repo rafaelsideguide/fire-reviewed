@@ -1,6 +1,6 @@
 # Fire Reviewed
 
-<video src="public/demo.mov" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/63c410fa-d9b3-4d87-8721-bc0586ef65cc" autoplay loop muted playsinline></video>
 
 Multi-agent conspiracy research engine. Pick a conspiracy. Watch multiple AIs race to believe it. Find out which model is most gullible.
 
